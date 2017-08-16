@@ -20,7 +20,7 @@ namespace JenkinsGitRepoTestProject
         private void btn_HelloWorld_Click(object sender, EventArgs e)
         {
             txt_HelloWorld.Text = "Whats up PCR testing out a pull?";
-            lbl_HelloWorld.Text = "i guess this is a change";
+            lbl_HelloWorld.Text = "i guess this is a changes, is this the one????";
         }
     }
 }
