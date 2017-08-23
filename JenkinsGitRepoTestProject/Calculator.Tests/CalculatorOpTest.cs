@@ -18,7 +18,7 @@ namespace Calculator.Tests
             //Arranging the test
             CalculatorOP sut = new CalculatorOP();
             //Act
-            int result = sut.Add(5,4);
+            int result = sut.Add(5,7);
             //Assert 
             Assert.AreEqual(9,result);
         }
