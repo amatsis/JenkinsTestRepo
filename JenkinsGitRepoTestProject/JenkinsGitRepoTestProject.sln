@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsGitRepoTestProject", "JenkinsGitRepoTestProject\JenkinsGitRepoTestProject.csproj", "{1C13A0B6-4006-4F19-A430-8B36D7163488}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{911B3804-B132-40C1-9D02-0EEB3E6C7996}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.Tests", "Calculator.Tests\Calculator.Tests.csproj", "{BCCB9C96-98AC-44A5-9A9C-933535094900}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{1C13A0B6-4006-4F19-A430-8B36D7163488}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C13A0B6-4006-4F19-A430-8B36D7163488}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C13A0B6-4006-4F19-A430-8B36D7163488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{911B3804-B132-40C1-9D02-0EEB3E6C7996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911B3804-B132-40C1-9D02-0EEB3E6C7996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911B3804-B132-40C1-9D02-0EEB3E6C7996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911B3804-B132-40C1-9D02-0EEB3E6C7996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCCB9C96-98AC-44A5-9A9C-933535094900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCCB9C96-98AC-44A5-9A9C-933535094900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCCB9C96-98AC-44A5-9A9C-933535094900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCCB9C96-98AC-44A5-9A9C-933535094900}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
