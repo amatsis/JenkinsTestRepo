@@ -15,7 +15,7 @@ namespace Calculator.Tests
         [TestMethod]
         public void TestingAdd()
         {
-            //Arranging the test
+            //Arranging the tests
             CalculatorOP sut = new CalculatorOP();
             //Act
             int result = sut.Add(5,4);
