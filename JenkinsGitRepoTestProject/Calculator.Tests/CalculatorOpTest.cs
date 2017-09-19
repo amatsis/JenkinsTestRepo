@@ -21,6 +21,7 @@ namespace Calculator.Tests
             int result = sut.Add(5,4);
             //Assert x
             Assert.AreEqual(9,result);
+            //test to see build works or not
         }
         [TestMethod]
         public void TestingMul()
